@@ -2,7 +2,7 @@
 Web automation using python selenium.
 
 1. Install Python 3
-2. Run these commands in cmd (Requirements selenim,pandas,joblib)
+2. Run these commands in cmd (Requirements selenium, pandas, joblib)
 
 3. pip install selenium (Installing Selenium)
 4. pip install joblib
@@ -13,4 +13,4 @@ Web automation using python selenium.
 
 
 8. You can change database to mysql also , just remove the comments on mysql connection code in main_parallel.py file
-9. 
+9. You can change sampe dataset by changing file.csv.
