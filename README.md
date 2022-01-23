@@ -10,3 +10,7 @@ Web automation using python selenium.
 
 6. Install chromedriver , and set the location of chromedriver in main_parallel.py file.
 7. Run main_parallel.py file
+
+
+8. You can change database to mysql also , just remove the comments on mysql connection code in main_parallel.py file
+9. 
