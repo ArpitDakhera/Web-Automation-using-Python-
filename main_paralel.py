@@ -46,8 +46,6 @@ def insert_records(client_gender, client_name, mob_no, a):
         agee = random.randint(20, 70)
         age.send_keys(agee)
 
-        print(
-            "#########################################################Ye wale number pe atka h yaha se ek plus krke line no 13 flag me update kro ################################################################################")
         print(a)
 
         name = web.find_element(By.NAME, 'RespondentName')
